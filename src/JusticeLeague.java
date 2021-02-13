@@ -1,6 +1,7 @@
 public class JusticeLeague {
     // Superman
-    //Batman
+    // Batman
     // Avengers
+    // Spider-Man
 }
 
